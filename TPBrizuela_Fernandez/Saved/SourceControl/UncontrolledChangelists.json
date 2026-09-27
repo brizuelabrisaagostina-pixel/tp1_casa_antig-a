@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"F:/bribri/tp1_casa_antig-a/TPBrizuela_Fernandez/Content/casa/casa.umap"
+			]
+		}
+	]
+}
