@@ -6,7 +6,10 @@
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
 				"F:/bribri/tp1_casa_antig-a/TPBrizuela_Fernandez/Content/casa/casa.umap",
-				"F:/bribri/tp1_casa_antig-a/TPBrizuela_Fernandez/Content/CyberpunkIndustries/Maps/Demo_Map.umap"
+				"F:/bribri/tp1_casa_antig-a/TPBrizuela_Fernandez/Content/CyberpunkIndustries/Maps/Demo_Map.umap",
+				"F:/bribri/tp1_casa_antig-a/TPBrizuela_Fernandez/Content/blueprints/BP_puerta.uasset",
+				"F:/bribri/tp1_casa_antig-a/TPBrizuela_Fernandez/Content/CyberpunkIndustries/Meshes/puerta_1.uasset",
+				"F:/bribri/tp1_casa_antig-a/TPBrizuela_Fernandez/Content/CyberpunkIndustries/Meshes/Mesh_Door.uasset"
 			]
 		}
 	]
